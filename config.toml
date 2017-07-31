@@ -8,9 +8,11 @@ disableRSS = true
 
 [params]
   title = "Dr. Harsányi Szabolcs Gergő (PhD)"
-  description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br />
-                <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
-  logo = "fa-diamond"
+  description = '<!--[--> <b> Egyetemi adjunktus, pszichológus, sportpszichológus (sport szakpszichológus) </b> <!--]--><br />
+                <!--[-->KRE-BTK, Pszichológiai Intézet, Szociálpszichológiai és Interkulturális Tanszék<!--]--> <br />
+                 <!--[--> <b> E-mail:</b> tudommar@gmail.com<!--]-->'
+                
+  logo = "fa-graduation-cap"
   copyright = "Untitled"
 
 [[params.social]]
@@ -39,9 +41,3 @@ languageName = "English"
 weight = 1
 title = "Dr. Harsányi Szabolcs Gergő (PhD)"
 
-[languages.de]
-languageName = "Deutsch"
-weight = 2
-title = "Dimension"
-description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br />
-                <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
