@@ -996,7 +996,7 @@ button {
       padding: 2.5rem 1rem; }
     #header .content p {
       line-height: 1.875; } }
-  @media screen and (max-width: 480px) {
+  @media screen and (max-width: 1090px) {
     #header {
       padding: 1.5rem 0; }
       #header .content .inner {
