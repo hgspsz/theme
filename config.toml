@@ -1,18 +1,18 @@
-baseurl = "http://example.org"
+baseurl = "http://harsanyisportpszichologus.hu"
 title = "Dr. Harsányi Szabolcs Gergő (PhD)"
 theme = "dimension"
-languageCode = "en-us"
-defaultContentLanguage = "en"
+languageCode = "hu-hu"
+defaultContentLanguage = "hu"
 enableRobotsTXT = true
 disableRSS = true
 googleAnalytics = "UA-103438479-1"
 
 [params]
   title = "Dr. Harsányi Szabolcs Gergő (PhD)"
-  description = '<!--[--> <b> Egyetemi adjunktus, pszichológus, sportpszichológus (sport szakpszichológus) </b> <!--]--><br />
+  description = '<!--[--> <b> Sportpszichológus (sport szakpszichológus) egyetemi adjunktus, pszichológus </b> <!--]--><br />
                 <!--[-->KRE-BTK, Pszichológiai Intézet, Szociálpszichológiai és Interkulturális Tanszék<!--]--> <br />
                 <br> <!--[--> <b> E-mail:</b> tudommar@gmail.com<!--]--> <br />
-                 <!--[--> <b>Tartózkodási hely:</b> Szeged / Pest<!--]-->'
+                 <!--[--> <b>Tartózkodási hely:</b> Szeged / Budapest<!--]-->'
                 
   logo = "fa-graduation-cap"
   copyright = "Untitled"
@@ -38,8 +38,8 @@ googleAnalytics = "UA-103438479-1"
   link = "#"
 
 [languages]
-[languages.en]
-languageName = "English"
+[languages.hu]
+languageName = "Magyar"
 weight = 1
 title = "Dr. Harsányi Szabolcs Gergő (PhD)"
 
