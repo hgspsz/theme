@@ -996,7 +996,6 @@ button {
       padding: 2.5rem 1rem; }
     #header .content p {
       line-height: 1.875; } }
-  @media screen and (max-width: 1360px) {
     #header {
       padding: 1.5rem 0; }
       #header .content .inner {
@@ -1019,7 +1018,7 @@ button {
             min-width: 0;
             width: 100%; }
       #header nav.use-middle:after {
-        display: none; } }
+        display: none; } 
 
 /* Main */
 #main {
